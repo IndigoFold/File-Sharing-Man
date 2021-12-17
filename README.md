@@ -15,7 +15,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ### Setup
 
-- Tambahkan bot ke Channel Database dengan semua izin admin
+- Tambahkan bot ke Channel Database dengan semua izin ADMIN
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
 - Tambahkan bot ke Group ForceSub tambahkan bot sebagai ADMIN
 
